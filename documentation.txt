@@ -1,0 +1,13 @@
+Education Resources Customizer
+------------------------------
+
+This is a Python CLI app to recommend educational resources based on subject & difficulty.
+It reads from a CSV file, filters the data, and shows results with an optional visualization.
+
+Challenges:
+- Ensuring case-insensitive matches for user input
+- Designing a clean CSV structure
+
+Future Improvements:
+- Add a web interface
+- Allow users to add resources dynamically
