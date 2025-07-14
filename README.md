@@ -40,6 +40,7 @@ Resources for Computer Science (Beginner):
 - Command-line interface
 
 # How to Run
+```bash
 # Clone the repo
 git clone https://github.com/reyamm/Reyams_FirstProj.git
 
@@ -48,8 +49,6 @@ cd Reyams_FirstProj
 
 # (Optional) Create a virtual environment
 python3 -m venv my_env
-
-# Activate the virtual environment
 source my_env/bin/activate   # On Windows: my_env\Scripts\activate
 
 # Install dependencies
@@ -57,6 +56,8 @@ pip install -r requirements.txt
 
 # Run the script
 python main.py
+
+
 #  Author
 - [Reyam](https://github.com/reyamm)
 
