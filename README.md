@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 # Run the script
 python main.py
-
+```
 
 #  Author
 - [Reyam](https://github.com/reyamm)
