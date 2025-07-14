@@ -8,23 +8,23 @@ This is a Python-based command-line app that helps users find educational resour
 - To practice Python skills including data processing, visualization, and file I/O.
 - To demonstrate how to use CSV data in a real-world scenario.
 
-## How to Run
+### How to Run
 1. Install dependencies:
 2. Run the script:
 3. Follow the prompts to choose a subject and difficulty level.
 
-## Example Subjects
+### Example Subjects
 - Computer Science
 - Math
 - Biology
 - Chemistry
 
-## Example Difficulties
+### Example Difficulties
 - Beginner
 - Intermediate
 - Advanced
 
-## Example Output
+### Example Output
 Available Subjects: [‘Computer Science’, ‘Math’, ‘Biology’, ‘Chemistry’]
 Enter a subject: Computer Science
 Enter difficulty level (Beginner, Intermediate, Advanced): Beginner
