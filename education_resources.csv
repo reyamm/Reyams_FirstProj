@@ -1,0 +1,101 @@
+Subject,Difficulty,Title,Type,Duration,Link
+History,Beginner,Civil Rights Movement,Podcast,2h,http://example.com/civil_rights_movement/0
+English,Intermediate,Literary Analysis,Podcast,8h,http://example.com/literary_analysis/1
+Science,Intermediate,Biology of Life,Article,2h,http://example.com/biology_of_life/2
+Economics,Intermediate,Microeconomics,Book,1h,http://example.com/microeconomics/3
+Economics,Advanced,Game Theory,Podcast,5h,http://example.com/game_theory/4
+Math,Intermediate,Geometry Essentials,Course,5h,http://example.com/geometry_essentials/5
+History,Advanced,Ancient Rome,Article,3h,http://example.com/ancient_rome/6
+Art,Beginner,Art History,Article,2h,http://example.com/art_history/7
+Art,Advanced,Digital Design,Article,8h,http://example.com/digital_design/8
+Math,Beginner,Geometry Essentials,Book,5h,http://example.com/geometry_essentials/9
+Science,Beginner,Biology of Life,Video,3h,http://example.com/biology_of_life/10
+Science,Intermediate,Astronomy Guide,Book,2h,http://example.com/astronomy_guide/11
+Economics,Advanced,Game Theory,Video,6h,http://example.com/game_theory/12
+Science,Intermediate,Astronomy Guide,Article,5h,http://example.com/astronomy_guide/13
+History,Beginner,World War II,Video,10h,http://example.com/world_war_ii/14
+Art,Advanced,Art History,Video,6h,http://example.com/art_history/15
+Science,Advanced,Astronomy Guide,Article,7h,http://example.com/astronomy_guide/16
+Science,Intermediate,Physics Principles,Book,3h,http://example.com/physics_principles/17
+Computer Science,Intermediate,Machine Learning,Podcast,3h,http://example.com/machine_learning/18
+English,Advanced,Creative Writing,Video,6h,http://example.com/creative_writing/19
+History,Intermediate,Modern History,Course,2h,http://example.com/modern_history/20
+Art,Advanced,Sculpture Workshop,Article,6h,http://example.com/sculpture_workshop/21
+History,Beginner,Civil Rights Movement,Course,10h,http://example.com/civil_rights_movement/22
+Art,Beginner,Painting Techniques,Course,2h,http://example.com/painting_techniques/23
+Economics,Intermediate,Macroeconomics,Podcast,4h,http://example.com/macroeconomics/24
+Math,Intermediate,Algebra Basics,Podcast,8h,http://example.com/algebra_basics/25
+Economics,Advanced,Macroeconomics,Video,3h,http://example.com/macroeconomics/26
+Art,Advanced,Digital Design,Podcast,4h,http://example.com/digital_design/27
+Computer Science,Advanced,Intro to Programming,Article,5h,http://example.com/intro_to_programming/28
+Art,Advanced,Art History,Podcast,5h,http://example.com/art_history/29
+Computer Science,Intermediate,Data Structures,Course,7h,http://example.com/data_structures/30
+Art,Advanced,Digital Design,Book,4h,http://example.com/digital_design/31
+History,Advanced,Civil Rights Movement,Article,5h,http://example.com/civil_rights_movement/32
+History,Advanced,World War II,Video,10h,http://example.com/world_war_ii/33
+English,Advanced,Literary Analysis,Podcast,4h,http://example.com/literary_analysis/34
+Art,Beginner,Painting Techniques,Article,5h,http://example.com/painting_techniques/35
+English,Intermediate,Grammar Foundations,Course,2h,http://example.com/grammar_foundations/36
+Art,Beginner,Sculpture Workshop,Course,9h,http://example.com/sculpture_workshop/37
+English,Intermediate,Grammar Foundations,Podcast,7h,http://example.com/grammar_foundations/38
+Art,Advanced,Digital Design,Podcast,10h,http://example.com/digital_design/39
+Art,Intermediate,Digital Design,Video,6h,http://example.com/digital_design/40
+Economics,Intermediate,Microeconomics,Video,7h,http://example.com/microeconomics/41
+Economics,Beginner,Macroeconomics,Article,2h,http://example.com/macroeconomics/42
+History,Advanced,Modern History,Course,5h,http://example.com/modern_history/43
+English,Advanced,Literary Analysis,Course,4h,http://example.com/literary_analysis/44
+Art,Beginner,Painting Techniques,Podcast,10h,http://example.com/painting_techniques/45
+English,Intermediate,Grammar Foundations,Video,9h,http://example.com/grammar_foundations/46
+Computer Science,Intermediate,Intro to Programming,Book,4h,http://example.com/intro_to_programming/47
+Science,Intermediate,Physics Principles,Article,3h,http://example.com/physics_principles/48
+Economics,Advanced,Game Theory,Course,9h,http://example.com/game_theory/49
+Science,Advanced,Biology of Life,Course,5h,http://example.com/biology_of_life/50
+Art,Advanced,Painting Techniques,Book,10h,http://example.com/painting_techniques/51
+Science,Advanced,Astronomy Guide,Podcast,8h,http://example.com/astronomy_guide/52
+Computer Science,Intermediate,Cybersecurity Basics,Article,1h,http://example.com/cybersecurity_basics/53
+Art,Advanced,Digital Design,Podcast,2h,http://example.com/digital_design/54
+History,Beginner,Modern History,Article,2h,http://example.com/modern_history/55
+English,Intermediate,Literary Analysis,Video,5h,http://example.com/literary_analysis/56
+Computer Science,Intermediate,Intro to Programming,Article,3h,http://example.com/intro_to_programming/57
+Art,Beginner,Art History,Article,2h,http://example.com/art_history/58
+Economics,Advanced,Behavioral Economics,Video,9h,http://example.com/behavioral_economics/59
+Math,Intermediate,Geometry Essentials,Article,9h,http://example.com/geometry_essentials/60
+Science,Intermediate,Chemistry Reactions,Video,9h,http://example.com/chemistry_reactions/61
+English,Advanced,Literary Analysis,Video,6h,http://example.com/literary_analysis/62
+Economics,Advanced,Microeconomics,Podcast,2h,http://example.com/microeconomics/63
+Math,Beginner,Algebra Basics,Video,2h,http://example.com/algebra_basics/64
+Economics,Advanced,Game Theory,Book,9h,http://example.com/game_theory/65
+Computer Science,Intermediate,Data Structures,Video,2h,http://example.com/data_structures/66
+Math,Advanced,Algebra Basics,Podcast,1h,http://example.com/algebra_basics/67
+Art,Advanced,Sculpture Workshop,Article,2h,http://example.com/sculpture_workshop/68
+Computer Science,Advanced,Intro to Programming,Article,1h,http://example.com/intro_to_programming/69
+Art,Beginner,Painting Techniques,Course,1h,http://example.com/painting_techniques/70
+English,Intermediate,Literary Analysis,Course,6h,http://example.com/literary_analysis/71
+English,Intermediate,Public Speaking,Course,10h,http://example.com/public_speaking/72
+Economics,Intermediate,Game Theory,Book,6h,http://example.com/game_theory/73
+History,Intermediate,Modern History,Article,3h,http://example.com/modern_history/74
+Math,Advanced,Calculus Mastery,Book,2h,http://example.com/calculus_mastery/75
+Art,Advanced,Art History,Podcast,5h,http://example.com/art_history/76
+Art,Beginner,Digital Design,Course,10h,http://example.com/digital_design/77
+Art,Advanced,Digital Design,Podcast,1h,http://example.com/digital_design/78
+Science,Advanced,Physics Principles,Podcast,8h,http://example.com/physics_principles/79
+Math,Beginner,Geometry Essentials,Podcast,7h,http://example.com/geometry_essentials/80
+Science,Intermediate,Physics Principles,Article,5h,http://example.com/physics_principles/81
+Art,Intermediate,Digital Design,Video,9h,http://example.com/digital_design/82
+Math,Intermediate,Algebra Basics,Podcast,4h,http://example.com/algebra_basics/83
+Art,Advanced,Digital Design,Book,9h,http://example.com/digital_design/84
+Economics,Beginner,Microeconomics,Book,8h,http://example.com/microeconomics/85
+English,Beginner,Grammar Foundations,Book,9h,http://example.com/grammar_foundations/86
+English,Advanced,Public Speaking,Podcast,2h,http://example.com/public_speaking/87
+History,Beginner,Ancient Rome,Article,2h,http://example.com/ancient_rome/88
+Art,Beginner,Painting Techniques,Book,4h,http://example.com/painting_techniques/89
+English,Beginner,Grammar Foundations,Video,1h,http://example.com/grammar_foundations/90
+Math,Intermediate,Geometry Essentials,Podcast,6h,http://example.com/geometry_essentials/91
+Art,Advanced,Sculpture Workshop,Podcast,1h,http://example.com/sculpture_workshop/92
+Computer Science,Beginner,Intro to Programming,Article,8h,http://example.com/intro_to_programming/93
+Science,Intermediate,Astronomy Guide,Video,3h,http://example.com/astronomy_guide/94
+Economics,Advanced,Microeconomics,Podcast,3h,http://example.com/microeconomics/95
+Computer Science,Advanced,Data Structures,Course,5h,http://example.com/data_structures/96
+History,Beginner,Modern History,Course,8h,http://example.com/modern_history/97
+Computer Science,Beginner,Cybersecurity Basics,Article,1h,http://example.com/cybersecurity_basics/98
+Computer Science,Beginner,Intro to Programming,Article,4h,http://example.com/intro_to_programming/99
