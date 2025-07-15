@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read the CSV file
-df = pd.read_csv("data.csv")
+df = pd.read_csv("education_resources.csv")
 
 print(" Welcome to the Education Resources Customizer!")
 print("Available Subjects:", df['Subject'].unique())

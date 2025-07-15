@@ -1,8 +1,0 @@
-Title,Subject,Type,Difficulty,Duration,Link
-"Intro to Python","Computer Science","Video","Beginner","2h","https://example.com/python"
-"CS50's Intro to CS","Computer Science","Course","Beginner","20h","https://example.com/cs50"
-"Linear Algebra Done Right","Math","Book","Advanced","50h","https://example.com/linear-algebra"
-"Biology Basics","Biology","Video","Beginner","1.5h","https://example.com/biology"
-"Machine Learning Crash Course","Computer Science","Course","Intermediate","15h","https://example.com/ml"
-"Statistics Fundamentals","Math","Book","Intermediate","30h","https://example.com/stats"
-"Organic Chemistry Overview","Chemistry","Video","Advanced","3h","https://example.com/organic-chem"
