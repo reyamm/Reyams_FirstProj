@@ -1,7 +1,7 @@
 # Reyams_FirstProj
 # Education Resources Customizer 🎓
 
-This is a Python-based command-line app that helps users find educational resources based on their chosen subject and difficulty level. It reads from a CSV file (`data.csv`) and displays matching resources.
+This is a Python-based command-line app that helps users find educational resources based on their chosen subject and difficulty level. It reads from a CSV file (`education_resources.csv`) and displays matching resources.
 # Objectives
 
 - To help learners quickly find appropriate educational materials suited to their level and interest.
