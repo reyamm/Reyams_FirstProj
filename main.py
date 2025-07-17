@@ -19,7 +19,7 @@ filtered = df[
 if filtered.empty:
     print("No resources found for your selection.")
 else:
-    print(f"\n📚 Resources for {subject.title()} ({difficulty.title()}):")
+    print(f"\n Resources for {subject.title()} ({difficulty.title()}):")
     for idx, row in filtered.iterrows():
         print(f"- {row['Title']} | {row['Type']} | {row['Duration']} | {row['Link']}")
 
